@@ -9,7 +9,7 @@
 
 	
     
- 	<bean id="myCoach"
+ 	<bean id="myyCoach"
  		class="com.luv2code.springdemo.TrackCoach">	 		
  	</bean>
 
